@@ -6,13 +6,13 @@ This documentation provides an overview of the project setup for a new initiativ
 
 ## Initiatives
 
-1. [Basic Project Documentation and Project Management:](initiatives/documentation_initiative.md)
+1. [Basic Project Documentation and Project Management:] (initiatives/documentation_initiative.md)
    This initiative includes the development of a comprehensive project plan and documentation that outlines the project's objectives, timelines, milestones, and resources. It also involves the creation of a project management framework that aligns with agile and lean principles. This framework will enable the team to work collaboratively, effectively, and efficiently while managing risks, issues, and dependencies.
 
-2. [DevOps:](initiatives/initiative_devops.md)
+2. [DevOps:] (initiatives/initiative_devops.md)
    The DevOps initiative aims to provide an end-to-end solution for building, testing, and deploying the website. This includes setting up the development environment, version control, continuous integration and deployment, and monitoring and logging. The DevOps team will also ensure that the website is secure, scalable, and reliable by implementing best practices and using modern technologies and tools.
 
-3. [MyWebClass.org Base Website Template:](initiatives/initiative_webpage_template.md)
+3. [MyWebClass.org Base Website Template:] (initiatives/initiative_webpage_template.md)
    This initiative focuses on creating a base website template for MyWebClass.org that satisfies all the technical and legal requirements for using Google Analytics and being listed on search engines. This includes designing and developing the website using modern web development frameworks and tools, implementing basic on-page SEO requirements, and ensuring compliance with accessibility and data privacy regulations.
 
 ## Test Plan
