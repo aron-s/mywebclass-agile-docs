@@ -1,7 +1,7 @@
 ### Initiative 1: Develop a Project Plan
 
 #### Epics:
-1. [Break down the project into manageable tasks](../../templates/theme/initiatives/epics/epic_template.md)
+1. [Break down the project into manageable tasks](../../templates/theme/initiatives/epics/epic_1_1.md)
 2. Estimate time and resources required for each task
 3. Create a project schedule
 4. Assign tasks to team members
