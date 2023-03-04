@@ -1,7 +1,7 @@
 ### Initiative 2: DevoOps
 
 #### Epics:
-1. Set up Development Environment
+1. [Set up Development Environment](../../templates/theme/initiatives/epics/epic_2_1.md)
 2. Implement Version Control
 3. Set up continuous integration and deployment
 4. Set up monitoring and logging
