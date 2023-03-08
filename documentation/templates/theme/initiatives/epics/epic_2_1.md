@@ -23,6 +23,7 @@ Estimated Effort:
 
 Business Value:
 - The standardized development environment will enable developers to work efficiently and consistently, leading to faster development and deployment times.
+- A standardized environment could also lead to reduced ramp-up time and costs
 
 Priority:
 - High priority.

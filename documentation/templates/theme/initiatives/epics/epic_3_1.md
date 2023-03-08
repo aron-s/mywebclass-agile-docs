@@ -6,6 +6,7 @@ Goals:
 - Develop a website template that meets all technical and legal requirements
 - Ensure that the website template is easy to use and customize
 - Ensure that the website template is fully optimized for search engines
+- Accessibility
 
 User Stories:
 - As a web developer, I want to create a basic website template with all technical and legal requirements satisfied so that I can use Google Analytics and be appropriately listed in a search engine by implementing the basic on-page SEO requirements.
@@ -31,5 +32,6 @@ Priority: High
 
 # List stories related to this theme
 1. As a web developer, I want to create a basic website template with all technical and legal requirements satisfied so that I can use Google Analytics and be appropriately listed in a search engine by implementing the basic on-page SEO requirements.
+2. As a content creator, I want the website template to have an intuitive and user-friendly interface for managing and publishing content, so that I can easily create and update content without requiring extensive technical knowledge.
 
 
